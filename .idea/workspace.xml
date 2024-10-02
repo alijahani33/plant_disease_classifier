@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add some codes">
+    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add data preprocess">
+      <change afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocessing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +24,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alijahani33"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alijahani33&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alijahani33/plant_disease_classifier.git",
-    "accountId": "57d5395f-0426-4132-92c2-66d4100caaa1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alijahani33/plant_disease_classifier.git&quot;,
+    &quot;accountId&quot;: &quot;57d5395f-0426-4132-92c2-66d4100caaa1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -99,7 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1727738628912</updated>
       <workItem from="1727738635649" duration="3480000" />
-      <workItem from="1727804396120" duration="2160000" />
+      <workItem from="1727804396120" duration="4531000" />
+      <workItem from="1727895084161" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="add some codes">
       <option name="closed" value="true" />
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727804403873</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add data preprocess">
+      <option name="closed" value="true" />
+      <created>1727829514333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727829514333</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add some codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some codes" />
+    <MESSAGE value="add data preprocess" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data preprocess" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
