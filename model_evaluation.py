@@ -1,4 +1,4 @@
-import tensorflow as
+import tensorflow as tf
 from typing import Tuple
 from fastapi import HTTPException
 from .config import MODEL_SAVE_PATH
@@ -14,8 +14,7 @@ def evaluate_model(model: tf.keras.Model, test_dataset: tf.data.Dateset) -> Tupl
 
 def save_model(MODEL_SAVE_PATH) ->None:
     try:
-        model.save(MODEL_SAVE_PATH)
+        tf.keras.Model.save(MODEL_SAVE_PATH)
         print(f"Model saved at {MODEL_SAVE_PATH}")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"error saving model:{e}")
-    
