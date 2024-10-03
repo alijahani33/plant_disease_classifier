@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add data Model Predict">
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add Model app with fast api">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <workItem from="1727738635649" duration="3480000" />
       <workItem from="1727804396120" duration="4531000" />
       <workItem from="1727895084161" duration="1198000" />
-      <workItem from="1727911974987" duration="3429000" />
+      <workItem from="1727911974987" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="add some codes">
       <option name="closed" value="true" />
@@ -162,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727915009868</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add Model app with fast api">
+      <option name="closed" value="true" />
+      <created>1727916359659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727916359659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +180,8 @@
     <MESSAGE value="add data preprocess" />
     <MESSAGE value="add data Model training" />
     <MESSAGE value="add data Model Predict" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data Model Predict" />
+    <MESSAGE value="add Model app with fast api" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Model app with fast api" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
