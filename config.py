@@ -7,6 +7,7 @@ BATCH_SIZE = 16
 EPOCHS = 55
 CHANNELS = 3
 N_CLASSES = 3
+CLASSES_NAME= [1, 2, 3]
 
 #Path
 MODEL_SAVE_PATH = './models/potatoes.h5'

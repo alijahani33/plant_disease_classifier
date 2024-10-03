@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add data preprocess">
-      <change afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
+    <list default="true" id="ead07d49-d741-4368-8eca-bf77c835b3f8" name="Changes" comment="add data Model training">
+      <change afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_evaluation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +102,7 @@
       <workItem from="1727738635649" duration="3480000" />
       <workItem from="1727804396120" duration="4531000" />
       <workItem from="1727895084161" duration="1198000" />
+      <workItem from="1727911974987" duration="2793000" />
     </task>
     <task id="LOCAL-00001" summary="add some codes">
       <option name="closed" value="true" />
@@ -142,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727829514333</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add data Model training">
+      <option name="closed" value="true" />
+      <created>1727912065850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727912065850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add some codes" />
     <MESSAGE value="add data preprocess" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data preprocess" />
+    <MESSAGE value="add data Model training" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data Model training" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
